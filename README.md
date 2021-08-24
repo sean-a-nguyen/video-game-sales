@@ -20,9 +20,6 @@ In this project, we are working with video game sales across the world scraped b
 10. Per year, which publisher had the most sales?
 11. What are the top 5 games for each genre?
 
-## Market Understanding
-Insert market info about gaming industry
-
 ## Methods
 - Data Visualization
 - Data Cleaning
